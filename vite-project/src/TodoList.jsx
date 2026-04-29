@@ -1,4 +1,3 @@
-/** @format */
 
 import TodoListItem from "./TodoListItem.jsx";
 
